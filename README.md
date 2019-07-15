@@ -17,6 +17,7 @@ Wardrip-Fruin, N. (2004) “What Hyer-text is”.
 
 
 
+
 # Week One Blog Post 
 
 To be honest, the thought of how the internet was created or how it has impacted society never entered my mind. It is something I use every day without considering how it has impacted the way I communicate and form relationships with others. The first reading Technology and Ideology: The Case of the Telegraph, changed my understanding of the telegraph completely. I never realized the impact it had on society by completely changing the way people communicated. As the article stated, “It permitted for the first time the effective separation of communication from transportation” (Carey 3). For the first time in history, people did not have to communicate face to face or rely on transportation to deliver their messages. It developed new forms of language, particularly shortening the amount of words for communication and removing much of the prose seen in letter writing. The telegraph clearly was the precursor to the internet. The internet expanded the principles of the telegraph where communication was separate from geography, to one where communication was separated from the infrastructure use to send it (Esperanto for Machines 198) .
