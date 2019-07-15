@@ -6,7 +6,7 @@ The last three readings of week #2, gave me an understanding on the thought proc
 	
 In the second week #2 article, From Computer Lib/Dream Machines, I read about Ted Nelson’s dreams and visions for the computer to become personal. I take for granted the computer I carry in my hand every day.  I didn’t realize that to bring the computer to the masses, people would have to rebel against the establishment and fight the power of large corporations and government to make it happen. On a personal note, I wish his ideas on transforming education would happen.  I took an online class in high school and it was the most boring class ever.  It was entirely Computer Aided Instruction and it did everything Nelson said it would… [It removed opportunity for initiative and creativity and was conducive to boredom] (Nelson 311).  Maybe his proposal was too threatening to the establishment more than Hypertext, therefore, it will take longer to come to fruition.  I too would like to “discard the sequences, items and conversation, and allow the student to move freely through materials which he may control. Motivate the user and let him loose in a wonderful place“ (Nelson 313).  That is exactly what happens on those browsing excursions that start with me checking the weather and ending up reading an article on the shifting of the magnetic poles. It’s the hypertext that puts the world’s knowledge in the palm of my hand and I’m glad that Ted Nelson got the last laugh.   
 
-## Works Cited: 
+# Works Cited: 
 Bates, M. (1989) “The Design of Browsing and Berrypicking Techniques for the Online Search Interface”.
 Bush, V. (1948). “As we may think.: The Atlantic Monthly, 101-108.
 Berners-Lee, T. (1989) “Information management: A proposal.”
@@ -25,7 +25,7 @@ With the examples of new technologies in the reading, The Master Switch, I found
 					
 In the reading Engineering a Principle “: End-to End” in the Design of the Internet, the author talks about “end to end” being a phrase used by the developers not only to describe the structure of the network, but as a metaphor that the power is in the user should not be controlled by one entity. I agree that the internet should be a fully free exchange of information. The one who controls what information we receive, controls the world. I like how what was a phrase to describe the technology as morphed into a political rallying cry....“the Internet is end-to-end, until someone makes it otherwise" (Gillespie 443). I’m relieved to know that people have already developed low tech solutions to building the internet. Those described in the reading How to Build a Low Tech Internet will allow the internet to survive “if the fuel supply is interrupted, the electrical infrastructure deteriorates, when the economy grinds to a halt, or if other calamities should hit” (De Decker, 3). I find it comforting to know that if some doomsday scenario should occurs, the internet and the free flow of information will continue. We don’t need to rely on governments or companies, we can build our own communication networks. 
 
-## Works cited: 
+# Works Cited: 
 
 Carey, J. (2009). Technology and Ideology: The Case of the Telegraph.
 De Decker, C. (2019). How to Build a Low-tech Internet. [online] LOW-TECH MAGAZINE. 
