@@ -24,7 +24,7 @@ Valentino-devries, Jennifer, et al. “Your Apps Know Where You Were Last Night,
 Greenwald, Glenn, et al. “Edward Snowden: the Whistleblower behind the NSA Surveillance Revelations.” The Guardian, Guardian News and Media, 11 June 2013 
 
 
-##Self-Portrait . 
+# Self-Portrait 
 [Hyperlink Self Portrait](Self_portrait/Mari_Hinkle.html) . 
 
 # Week Three Blog Post 
